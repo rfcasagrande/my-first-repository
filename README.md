@@ -1,5 +1,9 @@
 # LEARNING GIT
 
+## Table of contents
+
+- example_file.txt
+
 IMPORTANT STEPS FOR GIT WORKFLOW:
 
 1. INITIALIZE REPOSITORY WITH GIT INIT
