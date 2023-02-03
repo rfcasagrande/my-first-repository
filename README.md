@@ -1,6 +1,7 @@
 # LEARNING GIT
 
 ## Table of contents
+Hello World, I love using git!
 
 - example_file.txt
 
